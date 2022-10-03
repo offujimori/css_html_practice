@@ -1,0 +1,33 @@
+div {
+    color: white;
+    background-color: red;
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+p   {
+    background-color: green;
+    color: white;
+    font-size: 18px;
+}
+
+button  {
+    background-color: orange;
+    font-size: 18px;
+
+}
+
+.text1  {
+    background-color: gray;
+    color: black;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+
+}
+
+.text2  {
+    color: white;
+    font-size: 36px;
+}
+
+
